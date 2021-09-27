@@ -1,2 +1,2 @@
 # Digital-Communication-Systems-
-Instructor: Prof. A.M.Rabiei
+Three computer assignments were given through this course with the main focus on evaluating digital modulations in AWGN channel's and also the basics of source coding and informaiton theory
